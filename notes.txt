@@ -1,0 +1,13 @@
+how i am thinking of saving data
+
+cell on click -> stop and start timer adepending on state
+
+how to save time in database
+this must be available for every user
+it's going to have too much rows very soon
+ i also want an import, export functionality
+ be able to edit start, end time
+
+ i want to have two timer settings.
+ one that shows the time of the current session and another that shows the whole time for the day(week or any time interval)
+ maybe have both at one screen (the overall time in a less distinctive color => bg white, current session black, overall grey)
